@@ -1,0 +1,7 @@
+ida/
+src/Debug/
+src/Release/
+
+*.opensdf
+*.sdf
+*.suo
